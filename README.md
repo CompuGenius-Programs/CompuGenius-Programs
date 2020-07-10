@@ -19,7 +19,7 @@ I am a programmer currently focused on creating VR games sponsored by [Oculus](h
 
 ## 📧 Contact Me
 
-​- Website - https://www.cgprograms.com
+- Website - https://www.cgprograms.com
 
 - Twitter - https://twitter.com/compugeniuscode
 
