@@ -1,6 +1,6 @@
-# CompuGenius Programs 😃
+# CompuGenius Programs 👋
 
-## 🧐 About
+## 😀 About
 I am a programmer currently focused on creating VR games sponsored by [Oculus](https://oculus.com)
 
 ## 🔗 Links
@@ -8,7 +8,7 @@ I am a programmer currently focused on creating VR games sponsored by [Oculus](h
 - Creating Starfire VR, an epic VR shooter with unique features. Check out the [Starfire VR Website](https://starfire.cgprograms.com)
 - Developing GameDevOS, a Linux distro for game developers by game developers. Check out the [GameDevOS Discord Server](https://discord.gg/FfgVm7Z) here
 
-## 📫 Contact Me
+## 📧 Contact Me
 - Website - [CompuGenius Programs](https://www.cgprograms.com)
 - Twitter - [@compugeniuscode](https://twitter.com/compugeniuscode)
 - Email - [contact@cgprograms.com](mailto:contact@cgprograms.com)
