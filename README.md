@@ -1,18 +1,14 @@
-### Hello World!
-I'm a game developer currently working on VR games sponsored by Oculus!
-- 🔭 I’m currently working on Starfire VR: https://starfire.cgprograms.com
+# CompuGenius Programs 😃
 
-<!--
-**CompuGenius/CompuGenius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧐 About
+I am a programmer currently focused on creating VR games sponsored by [Oculus](https://oculus.com)
 
-Here are some ideas to get you started:
+## 🔗 Links
+- Empowering game developers with help and resources at the [CompuGenius Programs Discord Server](https://discord.gg/4gc5fQf)
+- Creating Starfire VR, an epic VR shooter with unique features. Check out the [Starfire VR Website](https://starfire.cgprograms.com)
+- Developing GameDevOS, a Linux distro for game developers by game developers. Check out the [GameDevOS Discord Server here](https://discord.gg/FfgVm7Z)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Website - [CompuGenius Programs](https://www.cgprograms.com)
+- Twitter - [@compugeniuscode](https://twitter.com/compugeniuscode)
+- Email - [contact@cgprograms.com](mailto:contact@cgprograms.com)
