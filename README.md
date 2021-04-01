@@ -6,9 +6,7 @@ I am a programmer currently focused on creating VR games sponsored by [Oculus](h
 ## 🔗 Links
 - Empowering game developers with help and resources at the [CompuGenius Programs Discord Server](https://discord.gg/4gc5fQf)
 
-- Creating Starfire VR, an epic VR shooter with unique features. Check out the [Starfire VR Website](https://starfire.cgprograms.com)
-
-- Developing GameDevOS, a Linux distro for game developers by game developers. Check out the [GameDevOS Discord Server](https://discord.gg/FfgVm7Z) here
+- Creating Scifyre League, an epic VR shooter with unique features. Check out the [Scifyre Leagu Website](https://scifyre.cgprograms.com)
 
 - Support my development journey at my [Patreon](https://patreon.com/CompuGeniusPrograms)
 
@@ -24,5 +22,3 @@ I am a programmer currently focused on creating VR games sponsored by [Oculus](h
 - Website - https://www.cgprograms.com
 
 - Twitter - https://twitter.com/compugeniuscode
-
-- Instagram - https://instagram.com/compugenius_programs
