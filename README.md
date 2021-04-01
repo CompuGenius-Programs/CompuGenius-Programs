@@ -10,8 +10,6 @@ I am a programmer currently focused on creating VR games sponsored by [Oculus](h
 
 - Support my development journey at my [Patreon](https://patreon.com/CompuGeniusPrograms)
 
-- Check out my game jam entries at my [ItchIO Page](https://compugenius-programs.itch.io)
-
 - Check out my development progress and tutorial videos on my [YouTube channel](https://www.youtube.com/channel/UCW7RfG26VQTchAmw_fgMV9g)
 
 - Watch me livestream development and gameplay on my [Twitch channel](https://www.twitch.tv/compugeniusprograms)
