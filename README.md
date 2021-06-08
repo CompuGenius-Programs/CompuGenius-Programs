@@ -3,6 +3,8 @@
 ## 😀 About
 I am a programmer currently focused on creating VR games sponsored by [Oculus](https://www.oculus.com)
 
+### 👨‍💻 To see my public repositories, please check out my [Github Organization](https://github.com/CompuGenius-Programs)
+
 ## 🔗 Links
 - Empowering game developers with help and resources at the [CompuGenius Programs Discord Server](https://discord.gg/4gc5fQf)
 
