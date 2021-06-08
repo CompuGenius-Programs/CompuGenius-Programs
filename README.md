@@ -8,12 +8,6 @@ I am a programmer currently focused on creating VR games sponsored by [Oculus](h
 
 - Creating Scifyre League, an epic VR shooter with unique features. Check out the [Scifyre Leagu Website](https://scifyre.cgprograms.com)
 
-- Support my development journey at my [Patreon](https://patreon.com/CompuGeniusPrograms)
-
-- Check out my development progress and tutorial videos on my [YouTube channel](https://www.youtube.com/channel/UCW7RfG26VQTchAmw_fgMV9g)
-
-- Watch me livestream development and gameplay on my [Twitch channel](https://www.twitch.tv/compugeniusprograms)
-
 
 ## 📧 Contact Me
 
