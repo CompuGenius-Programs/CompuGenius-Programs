@@ -1,4 +1,4 @@
-# CompuGenius Programs 🖥️
+# Yaakov Schlachter (CompuGenius Programs) 🖥️
 
 ## 😀 About
 I am a programmer currently focused on creating VR games sponsored by [Oculus](https://www.oculus.com)
