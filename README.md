@@ -1,17 +1,51 @@
-# Yaakov Schlachter (CompuGenius Programs) 🖥️
+## 👋 Yaakov Schlachter (CompuGenius Programs)
 
-## 😀 About
-I am a programmer currently focused on creating VR games sponsored by [Oculus](https://www.oculus.com)
+### 😀 About
+I am a programmer currently focused on creating VR games sponsored by [Oculus Start](https://www.oculus.com).
 
-### 👨‍💻 To see my public repositories, please check out my [Github Organization](https://github.com/CompuGenius-Programs)
+**To see my public repositories, please check out my [Github Organization](https://github.com/CompuGenius-Programs).**
 
-## 🔗 Links
-- Empowering game developers with help and resources at the [CompuGenius Programs Discord Server](https://discord.gg/4gc5fQf)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=compugenius&hide=stars&count_private=true&show_icons=true&theme=algolia)
 
-- Creating Scifyre League, an epic VR shooter with unique features. Check out the [Scifyre League Website](https://scifyre.cgprograms.com)
+### 👨‍💻 Cool Repos I've Worked On
+#### Personal
+<a href="https://github.com/CompuGenius-Programs/SudoCopilot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=compugenius-programs&repo=sudocopilot&show_owner=true&theme=algolia" />
+</a>
+<a href="https://github.com/CompuGenius-Programs/auto-ktane">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=compugenius-programs&repo=auto-ktane&show_owner=true&theme=algolia" />
+</a>
+<a href="https://github.com/CompuGenius-Programs/Tic-Tac-Toe-AI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=compugenius-programs&repo=tic-tac-toe-ai&show_owner=true&theme=algolia" />
+</a>
+<a href="https://github.com/CompuGenius-Programs/CGPrograms-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=compugenius-programs&repo=cgprograms-bot&show_owner=true&theme=algolia" />
+</a>
+
+#### Professional
+<a href="https://github.com/CompuGenius-Programs/Collapsus-V2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=compugenius-programs&repo=collapsus-v2&show_owner=true&theme=algolia" />
+</a>
+<a href="https://github.com/CompuGenius-Programs/VRIF-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=compugenius-programs&repo=vrif-bot&show_owner=true&theme=algolia" />
+</a>
+
+#### PRs
+<a href="https://github.com/Unity-Technologies/ml-agents">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unity-technologies&repo=ml-agents&show_owner=true&theme=algolia" />
+</a>
+<a href="https://github.com/upptime/upptime">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=upptime&repo=upptime&show_owner=true&theme=algolia" />
+</a>
+<a href="https://github.com/mrob95/pyvda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrob95&repo=pyvda&show_owner=true&theme=algolia" />
+</a>
+<a href="https://github.com/vrumger/counting-too">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vrumger&repo=counting-too&show_owner=true&theme=algolia" />
+</a>
 
 
-## 📧 Contact Me
+### 📧 Contact Me
 
 - Website - https://www.cgprograms.com
 
