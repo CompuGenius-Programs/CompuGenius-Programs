@@ -7,7 +7,7 @@ I am a programmer currently focused on creating VR games sponsored by [Oculus St
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=compugenius&hide=stars&count_private=true&show_icons=true&theme=algolia)
 
-### 👨‍💻 Cool Repos I've Worked On
+### 👨‍💻 Some Cool Repos I've Worked On
 #### Personal
 <a href="https://github.com/CompuGenius-Programs/SudoCopilot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=compugenius-programs&repo=sudocopilot&show_owner=true&theme=algolia" />
