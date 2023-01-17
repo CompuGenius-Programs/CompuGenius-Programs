@@ -37,11 +37,11 @@ I am a programmer currently focused on creating VR games sponsored by [Oculus St
 <a href="https://github.com/upptime/upptime">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=upptime&repo=upptime&show_owner=true&theme=algolia" />
 </a>
+<a href="https://github.com/pycord-development/pycord">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pycord-development&repo=pycord&show_owner=true&theme=algolia" />
+</a>
 <a href="https://github.com/kosherjava/zmanim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kosherjava&repo=zmanim&show_owner=true&theme=algolia" />
-</a>
-<a href="https://github.com/mrob95/pyvda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrob95&repo=pyvda&show_owner=true&theme=algolia" />
 </a>
 
 
