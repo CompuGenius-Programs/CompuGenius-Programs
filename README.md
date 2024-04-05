@@ -1,10 +1,5 @@
 ## 👋 Yaakov Schlachter (CompuGenius Programs)
 
-### 😀 About
-I am a programmer currently focused on creating VR games sponsored by [Oculus Start](https://www.oculus.com).
-
-**To see my public repositories, please check out my [Github Organization](https://github.com/CompuGenius-Programs).**
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=compugenius&hide=stars&count_private=true&show_icons=true&theme=algolia)
 
 ### 👨‍💻 Some Cool Repos I've Worked On
@@ -49,4 +44,4 @@ I am a programmer currently focused on creating VR games sponsored by [Oculus St
 
 - Website - https://www.cgprograms.com
 
-- Twitter - https://twitter.com/compugeniuscode
+- X - https://x.com/compugeniuscode
