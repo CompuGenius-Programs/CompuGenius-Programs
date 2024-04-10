@@ -1,5 +1,6 @@
 ## 👋 Yaakov Schlachter (CompuGenius Programs)
 
+Here are some stats that aren't really accurate due to the many private repos I work on, but here ya go haha
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CompuGenius-Programs&hide=stars&count_private=true&show_icons=true&theme=algolia)
 
 ### 👨‍💻 Some Cool Repos I've Worked On
