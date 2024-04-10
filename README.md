@@ -1,6 +1,6 @@
 ## 👋 Yaakov Schlachter (CompuGenius Programs)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=compugenius&hide=stars&count_private=true&show_icons=true&theme=algolia)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CompuGenius-Programs&hide=stars&count_private=true&show_icons=true&theme=algolia)
 
 ### 👨‍💻 Some Cool Repos I've Worked On
 #### Personal
