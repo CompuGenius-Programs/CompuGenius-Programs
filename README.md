@@ -5,21 +5,15 @@ Here are some stats that aren't really accurate due to the many private repos I 
 
 ### 👨‍💻 Some Cool Repos I've Worked On
 #### Personal
-<a href="https://github.com/CompuGenius-Programs/SudoCopilot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=compugenius-programs&repo=sudocopilot&show_owner=true&theme=algolia" />
-</a>
 <a href="https://github.com/CompuGenius-Programs/auto-ktane">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=compugenius-programs&repo=auto-ktane&show_owner=true&theme=algolia" />
 </a>
 <a href="https://github.com/CompuGenius-Programs/Tic-Tac-Toe-AI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=compugenius-programs&repo=tic-tac-toe-ai&show_owner=true&theme=algolia" />
 </a>
-<a href="https://github.com/CompuGenius-Programs/CGPrograms-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=compugenius-programs&repo=cgprograms-bot&show_owner=true&theme=algolia" />
-</a>
 
 #### Professional
-<a href="https://github.com/CompuGenius-Programs/Collapsus-V2">
+<a href="https://github.com/CompuGenius-Programs/Collapsus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=compugenius-programs&repo=collapsus-v2&show_owner=true&theme=algolia" />
 </a>
 <a href="https://github.com/CompuGenius-Programs/VRIF-Bot">
