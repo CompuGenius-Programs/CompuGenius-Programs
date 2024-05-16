@@ -38,5 +38,5 @@ Here are some stats that aren't really accurate due to the many private repos I 
 ### 📧 Contact Me
 
 - Website - https://www.cgprograms.com
-
+- LinkedIn - https://www.linkedin.com/in/yaakov-schlachter/
 - X - https://x.com/compugeniuscode
