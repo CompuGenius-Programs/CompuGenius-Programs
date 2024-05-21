@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1277" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1197" class="">
     <defs>
         <style/>
     </defs>
@@ -86,7 +86,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            940 Commits
+                            941 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -144,7 +144,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 10 repositories
+                            Starred 8 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -188,7 +188,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    454 MB used
+                                    452 MB used
                                 </div>
                             </section>
                             <section>
@@ -236,12 +236,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="245.6375970325237" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="245.6375970325237" y="0" width="101.62213210978261" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="347.25972914230636" y="0" width="36.536410655113315" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="383.7961397974197" y="0" width="31.802524436365754" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="415.5986642337854" y="0" width="20.094249677406225" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="435.6929139111916" y="0" width="24.30708608880841" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="245.63120601723168" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="245.63120601723168" y="0" width="101.61948809840908" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="347.2506941156408" y="0" width="36.53546004835754" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="383.7861541639983" y="0" width="31.813665306686026" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="415.59981947068434" y="0" width="20.093726863885326" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="435.69354633456965" y="0" width="24.306453665430336" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -548,7 +548,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 18 May 2024, 21:27:43
+                            On 19 May 2024, 16:10:04
                         </div>
                     </section>
                 </div>
@@ -558,14 +558,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Fixed grotto location not working with lowercase inputs
+                            Added initial personal grotto databases
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">84edbc3d</span>
-                            <span class="code">cogs/grottos.py</span>
+                            <span class="code">82029dce</span>
+                            <span class="code">.gitignore</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
@@ -576,14 +576,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -46,6 +46,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">@discord.slash_command(description="Get instructions to a grotto location")<br /></span><span class="token prefix unchanged">·</span><span class="token line">async def grotto_location(self, ctx,<br /></span><span class="token prefix unchanged">·</span><span class="token line">                          location: Option(str, "Location (Ex. 05)", required=True)):<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    location = location.upper()<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    if not re.match(r'^[0-9a-fA-F]{2}$', location) or not 1 &lt;= int(location, 16) &lt;= 150:<br /></span><span class="token prefix unchanged">·</span><span class="token line">        embed = create_embed("Invalid location. Please provide a valid location code (Ex. 05)")<br /></span><span class="token prefix unchanged">·</span><span class="token line">        await ctx.respond(embed=embed)</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -7,3 +7,4 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">cascade_description.md<br /></span><span class="token prefix unchanged">·</span><span class="token line">location_description.yml<br /></span><span class="token prefix unchanged">·</span><span class="token line">tourney.png<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">grottos.db<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 May 2024, 20:08:58 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 May 2024, 20:47:16 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
