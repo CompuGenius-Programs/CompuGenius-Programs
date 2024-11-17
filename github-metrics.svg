@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1224" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1264" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -86,7 +86,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1343 Commits
+                            1353 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -236,12 +236,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="167.35904704921822" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="167.35904704921822" y="0" width="118.21466892272291" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="285.5737159719411" y="0" width="72.21862598187218" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="357.7923419538133" y="0" width="39.71809793875007" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="397.5104398925634" y="0" width="23.664626948095087" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="421.1750668406585" y="0" width="38.824933159341526" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="167.3180415914804" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="167.3180415914804" y="0" width="118.1582659583901" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="285.4763075498705" y="0" width="72.2606236687667" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="357.7369312186372" y="0" width="39.69791152070266" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="397.43484273933984" y="0" width="23.758748378721457" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="421.1935911180613" y="0" width="38.80640888193868" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -544,7 +544,7 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">CompuGenius-Programs/3DPrinterStream</span>
+                            <span class="blue space">CompuGenius-Programs/DNSLock</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -552,7 +552,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 14 Nov 2024, 23:03:18
+                            On 28 Oct 2024, 18:00:44
                         </div>
                     </section>
                 </div>
@@ -562,17 +562,17 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Added turning off smart outlet
+                            Added service to detect and block tor apps.
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">823dab58</span>
-                            <span class="code">requirements.txt</span>
+                            <span class="code">2c5b094e</span>
+                            <span class="code">app/build.gradle.kts</span>
                             <span class="code">
                                 <span class="snippet additions">++2</span>
-                                <span class="snippet deletions">--1</span>
+                                <span class="snippet deletions">--2</span>
                             </span>
                         </div>
                     </section>
@@ -580,14 +580,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,3 +1,4 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">bambu-connect<br /></span><span class="token prefix unchanged">·</span><span class="token line">obsws_python<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">python-dotenv<br /></span></span>\No newline at end of file<br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">python-dotenv<br /></span><span class="token prefix inserted">+</span><span class="token line">python-kasa<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -11,8 +11,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">applicationId = "com.cgprograms.dnslock"<br /></span><span class="token prefix unchanged">·</span><span class="token line">minSdk = 29<br /></span><span class="token prefix unchanged">·</span><span class="token line">targetSdk = 34<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">versionCode = 5<br /></span><span class="token prefix deleted">-</span><span class="token line">versionName = "3.1.0"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">versionCode = 6<br /></span><span class="token prefix inserted">+</span><span class="token line">versionName = "4.0.0"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"<br /></span><span class="token prefix unchanged">·</span><span class="token line">vectorDrawables {</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Nov 2024, 11:14:07 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Nov 2024, 12:11:09 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
